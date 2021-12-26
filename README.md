@@ -1,1 +1,1 @@
-# ppm-detector-2021-bash
+# simple-bash-gpio
